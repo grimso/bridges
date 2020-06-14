@@ -1,0 +1,13 @@
+FIELD
+# Width x Height | Number of islands
+5 x 6 | 6
+
+ISLANDS
+# { (Column, Row | Number of bridges ) }
+# Columns and rows are 0-indexed!
+( 0, 1 | 2 )
+( 0, 5 | 3 )
+( 2, 0 | 3 )
+( 2, 2 | 3 )
+( 2, 5 | 3 )
+( 4, 0 | 2 )

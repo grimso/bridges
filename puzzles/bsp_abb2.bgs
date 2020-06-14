@@ -1,0 +1,18 @@
+FIELD
+7 x 7 | 12
+
+ISLANDS
+# { (Column, Row | Number of bridges ) }
+# Columns and rows are 0-indexed!
+( 0, 0 | 3 )
+( 0, 3 | 4 )
+( 0, 5 | 2 )
+( 1, 1 | 2 )
+( 1, 6 | 3 )
+( 3, 1 | 3 )
+( 3, 3 | 3 )
+( 3, 5 | 1 )
+( 4, 0 | 5 )
+( 4, 6 | 5 )
+( 6, 0 | 4 )
+( 6, 6 | 3 )

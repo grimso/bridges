@@ -1,0 +1,14 @@
+# Test zur "Isolation"
+# Mit diesem Testbeispiel kann die Implementierung folgender
+# Regel ueberprueft werden:
+# Regel R6: Am Ende des Spiels muessen alle Inseln indirekt 
+# miteinander verbunden sein. (D.h. von jeder Insel muss jede 
+# andere ueber die Bruecken erreichbar sein.) (s. Aufgabenstellung S. 3)
+FIELD
+5 x 5 | 2
+
+ISLANDS
+( 2, 0 | 1 )
+( 2, 4 | 1 )
+
+BRIDGES
